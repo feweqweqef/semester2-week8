@@ -2,6 +2,7 @@
 /*
   Structure definitions
 */
+#include <stdbool.h>
 
 typedef struct _point {
     float x;
